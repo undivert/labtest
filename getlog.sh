@@ -1,4 +1,5 @@
 #!/bin/bash
+#This is version for APA-Porject
 #std_input line 1: 1, 2, 3, a, 6,5
 #std_input line 2: 1
 
