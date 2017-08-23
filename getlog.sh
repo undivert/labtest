@@ -21,7 +21,7 @@ if [ ! -d "$LogDir/$LogDate" ]; then
         mkdir "$LogDate"
         echo "Created new logs dir: $LogDate"
 fi
-
+#version 1
 #read string
 echo "..............................................."
 echo ".......Please input as below list below: ......"
@@ -29,7 +29,7 @@ echo "..............................................."
 echo "............. 0 > ALl"
 echo "............. 1 > web"
 echo "............. 2 > submission"
-echo "............. 3 > notification"
+#echo "............. 3 > notification"	< apa don't have notification
 echo "............. 4 > integration"
 echo "............. 5 > print"
 echo "............. 6 > oauth"
